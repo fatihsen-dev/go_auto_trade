@@ -1,6 +1,6 @@
 # README
 
-## Project: Go-based Binance Trading Bot
+## Project: Go-based Trading Bot
 
 This project is a Go (Golang) application designed to interact with the Binance Spot API for automated trading. It leverages the following key libraries and concepts:
 
